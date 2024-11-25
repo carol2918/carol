@@ -3,9 +3,13 @@ escola-api/
 
    ├── professoresController.js
    └── estudantesController.js
+
+   
 ── routes/
 
    ├── professoresRoutes.js
    └── estudantesRoutes.js
-── app.js
+── server.js
 ── package.json
+── package-lock.json
+
